@@ -11,3 +11,8 @@ from Phonetizer import *
 p=Phonetizer("hello world")
 p.get_phoname()
 ```
+
+# Version
+`0.9` (Maybe buggy)
+
+Feel free to contribute
