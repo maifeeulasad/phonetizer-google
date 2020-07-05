@@ -1,5 +1,9 @@
 # phonetizer-google
 
+```
+pip install phonetizer_google
+```
+
 # Usage
 ```
 from Phonetizer import *
