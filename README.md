@@ -1,5 +1,7 @@
 # phonetizer-google
 
+![GitHub repo size](https://img.shields.io/github/repo-size/maifeeulasad/phonetizer-google?color=red&style=flat-square)
+
 ```
 pip install phonetizer_google
 ```
